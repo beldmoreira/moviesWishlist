@@ -4,7 +4,7 @@
 
   <h3 align="center">Movie Wishlist</h3>
   <div align="center">
-    An PoC to prove full-stack development using TypeScript. It's a movie organizer.
+    A PoC to prove full-stack development using TypeScript. It's a movie organizer.
     <br />
   </div>
 </div> 
