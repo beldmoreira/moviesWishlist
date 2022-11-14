@@ -16,7 +16,7 @@ model Movie {
   title     String @unique
   streamingService String 
   genre String
-  status String
+  status String 
 
   @@map("movies")
 }
